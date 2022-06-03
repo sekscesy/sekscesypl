@@ -1,5 +1,5 @@
 {
-  "username": "sekscesy"
+  "name": "sekscesy",
   "type": "personal",
     "bio": "Weronika - twoja wirtualna dziewczyna",
     "avatar": "https://github.com/sekscesy.png",
@@ -12,17 +12,17 @@
         "name": "Darmowy VIP",
         "url": "https://t.me/+xl_EEtjlp69mNjA8",
         "icon": "telegram"
-      }
+      },
       {
         "name": "Napisz do mnie | @sekscesy",
         "url": "https://t.me/sekscesy",
         "icon": "telegram"
-      }
+      },
       {
         "name": "Cennik | @opielanie",
         "url": "https://t.me/opielanie",
         "icon": "telegram"
-      }
+      },
       {
         "name": "Paypal",
         "url": "https://paypal.me/sekscesy",
@@ -71,4 +71,3 @@
         }
       ]
     }
-}
