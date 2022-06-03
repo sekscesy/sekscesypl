@@ -1,0 +1,74 @@
+{
+  "username": "sekscesy"
+  "type": "personal",
+    "bio": "Weronika - twoja wirtualna dziewczyna",
+    "avatar": "https://github.com/sekscesy.png",
+    "links": [{
+        "name": "Mój Instagram",
+        "url": "https://instagram.com/sekscesy",
+        "icon": "instagram"
+      },
+      {
+        "name": "Darmowy VIP",
+        "url": "https://t.me/+xl_EEtjlp69mNjA8",
+        "icon": "telegram"
+      }
+      {
+        "name": "Napisz do mnie | @sekscesy",
+        "url": "https://t.me/sekscesy",
+        "icon": "telegram"
+      }
+      {
+        "name": "Cennik | @opielanie",
+        "url": "https://t.me/opielanie",
+        "icon": "telegram"
+      }
+      {
+        "name": "Paypal",
+        "url": "https://paypal.me/sekscesy",
+        "icon": "paypal"
+      }
+    ],
+    "milestones": [{
+          "title": "Link nie działa?",
+          "date": "Luty 2021",
+          "icon": "telegram",
+          "color": "blue",
+          "description": "Musisz pobrać aplikację Telegram",
+          "url": "https://www.telegram.org/"
+        },
+        {
+          "title": "Czym jest Telegram?",
+          "date": "Luty 2021",
+          "icon": "telegram",
+          "color": "blue",
+          "description": "Telegram to w pełni bezpieczny komunikator posiadający ponad 550 milionów aktywnych użytkowników. Prowadzę tam swoje kanały, na które mogę wrzucać co mi się podoba i nie dostanę bana, jak na ig.",
+          "url": "https://www.telegram.org/"
+        },
+        {
+          "title": "Link do pobrania aplikacji telegram w Appstore (iphone/mac)",
+          "date": "Luty 2021",
+          "icon": "apple",
+          "color": "white",
+          "description": "Rok do roku z aplikacji Telegram korzysta ponad 40% więcej użytkowników",
+          "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807https://apps.apple.com/us/app/telegram-messenger/id686449807"
+        },
+        {
+          "title": "Link do pobrania aplikacji telegram w sklepie Google (android)",
+          "date": "Luty 2021",
+          "icon": "android",
+          "color": "green",
+          "description": "Rok do roku z aplikacji Telegram korzysta ponad 40% więcej użytkowników",
+          "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=pl&gl=US"
+        },
+        {
+          "title": "Jeśli masz jakieś wątpliwości co do Telegrama to zapytaj mnie o niego na moim Instagramie",
+          "date": "Luty 2021",
+          "icon": "instagram",
+          "color": "pink",
+          "description": "Mój instagram",
+          "url": "https://instagram.com/sekscesy"
+        }
+      ]
+    }
+}
